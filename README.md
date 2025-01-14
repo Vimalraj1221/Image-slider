@@ -1,3 +1,5 @@
+### Image-slider
+  - This is a image slider cnstructed by using HTML,CSS and Javascript
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/Vimalraj1221/Image-slider)
