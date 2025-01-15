@@ -3,7 +3,8 @@
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/Vimalraj1221/Image-slider)
-- Live Site URL: [Netlify Hosted](https://frabjous-jalebi-d88f36.netlify.app/)
+- Live Site URL 1: [Netlify Hosted](https://frabjous-jalebi-d88f36.netlify.app/)
+- Live Site url 2: [Render Hosted](https://image-slider-68my.onrender.com)
 
 ### Built with
 
